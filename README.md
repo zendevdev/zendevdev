@@ -1,4 +1,4 @@
-### hey :wave:, i'm **will** :lizard:  
+# hey :wave:, i'm **will** :lizard:  
 19yo⠀/⠀🇧🇷⠀/⠀frontend dev  
 ##
 currently learning ✔️
