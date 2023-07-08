@@ -9,7 +9,7 @@ currently learning ✔️
 - and more!
   
 soon to be learning :eight_pointed_black_star:
+- [ ] svelte
 - [ ] node.js
-- [ ] next.js
-- [ ] mongo.db
+- [ ] prisma
 - [ ] and other technologies!!
