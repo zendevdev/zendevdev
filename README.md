@@ -1,4 +1,4 @@
-### hey :wave:, i'm *zendev*, but you can call me **Lis** :lizard:  
+### hey :wave:, i'm **will** :lizard:  
 19yo⠀/⠀🇧🇷⠀/⠀frontend dev  
 >i love cats, coffee and cool UXs/UIs 😸
 ##
