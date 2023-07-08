@@ -1,6 +1,5 @@
 ### hey :wave:, i'm **will** :lizard:  
 19yo⠀/⠀🇧🇷⠀/⠀frontend dev  
->i love cats, coffee and cool UXs/UIs 😸
 ##
 currently learning ✔️
 - typescript
