@@ -2,7 +2,7 @@
 
 # 🦎 opa! prazer, will =)
  
-<code>   🇧🇷 // 19 anos // desenvolvedor frontend 🌿   </code>
+<code>🇧🇷</code> <code>19 anos</code> <code>desenvolvedor frontend 🌿</code>
 
 - 👾 atualmente cursando <strong>Análise e Desenvolvimento de Sistemas</strong>
 - 💾 desenvolvendo o [🌟sparklee!](https://github.com/zendevdev/sparklee) e o [💭whispr](https://github.com/zendevdev/whispr)
