@@ -3,7 +3,7 @@
 <code>🇧🇷 / 19 anos / desenvolvedor frontend</code>
 
 - 👾 atualmente cursando <strong>Análise e Desenvolvimento de Sistemas</strong> no <strong>IFRS / Campus Farroupilha</strong>
-- 💾 desenvolvendo o [_✧ sparklee!_](https://github.com/zendevdev/sparklee)
+- 💾 desenvolvendo o [_✧ sparklee!_](https://github.com/zenvv/sparklee)
 - 📖 estudando <strong>NextJs</strong>, <strong>Astro</strong> e <strong>Prisma</strong>
 #
 ### Tecnologias e Ferramentas:
