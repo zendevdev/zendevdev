@@ -1,5 +1,3 @@
 olá =)
 
----
-
-atualmente desenvolvendo o [typo-dash](#) e o [fang](#)
+atualmente estou trabalhando em: [typo-dash](#) e [fang](#)
